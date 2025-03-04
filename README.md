@@ -1,2 +1,4 @@
-# html-email-template
-HTML Email Template
+# HTML Email Template
+
+Basic HTML Email Template
+
